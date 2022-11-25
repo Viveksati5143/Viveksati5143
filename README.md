@@ -73,6 +73,11 @@
 ![Vivek's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viveksati5143&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 
 ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif)
+<!-- ### Spotify Playing 🎧
+ 
+[![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+
+-->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksati5143&show_icons=true&locale=en&layout=compact" alt="viveksati5143" /></p>
 
