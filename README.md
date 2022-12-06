@@ -22,14 +22,12 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Viveksati5143&label=Visitors&color=0088cc&style=flat-square" alt="Viveksati5143" /> </p> -->
 
 ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViveksati51431212%2Fhit-counter)
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksati5143&theme=radical&hide_border=true"/>
-</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksati5143&theme=radical&hide_border=true"/></p> -->
 
 
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksati5143" alt="viveksati5143" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/viveksa61008833" target="blank"><img src="https://img.shields.io/twitter/follow/viveksa61008833?logo=twitter&style=for-the-badge" alt="viveksa61008833" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/viveksa61008833" target="blank"><img src="https://img.shields.io/twitter/follow/viveksa61008833?logo=twitter&style=for-the-badge" alt="viveksa61008833" /></a> </p> -->
 
 <!-- - 🔭 I’m currently working on **DSA**
 
