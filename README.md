@@ -88,7 +88,7 @@
 
 ![Vivek's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viveksati5143&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)
 <!-- ![snake animation](https://github.com/<Viveksati5143>/<Viveksati5143>/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
 <!-- ### Spotify Playing 🎧
