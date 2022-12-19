@@ -35,7 +35,6 @@
 
 - 💬 Ask me about **Java,C,C++,HTML** -->
 
-
 ## 👩‍💻 IDE 
 
 ![Top Graph](https://img.shields.io/badge/Eclipse_IDE_for_Java_Developers-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -43,13 +42,17 @@
 ![Top Graph](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white)
 
+<a href="https://github.com/Viveksati5143/github-readme-stats">
+<!-- ![Vivek's Language stats] -->
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viveksati5143&theme=gotham&layout=compact&langs_count=8&hide_border=true" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/viveksa61008833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viveksa61008833" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek-sati-71465320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sati-71465320a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viveksati2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksati2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user_1lkw9mgrdp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_1lkw9mgrdp9" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -71,9 +74,7 @@
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p align="right">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viveksati5143&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-</p>
+
 
 <!-- <p align="center">
     <a href="https://wakatime.com/@Voko">
@@ -86,7 +87,11 @@
 <a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Viveksati5143&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p>
 
-![Vivek's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viveksati5143&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+<!-- </p>
+<p align="right">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viveksati5143&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p> -->
+
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)
 ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.svg)
