@@ -92,12 +92,19 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viveksati5143&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p> -->
 
+
+
 ## Watch a snake 🐍 eating my contribution graph
 ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)
 ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)
+
+
 <!-- ![snake animation](https://github.com/<Viveksati5143>/<Viveksati5143>/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
 <!-- ### Spotify Playing 🎧
+ 
+ 
  
 [![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
 
