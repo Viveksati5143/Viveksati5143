@@ -147,7 +147,8 @@
 	     <li><b>Laptop: </b> HP 14s (i5)</li>
   	   <li><b>Browser: </b> Microsoft Edge</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> www.linkedin.com/in/vivek-sati </li>
+	     <li><b>To Stay Updated:</b> 
+		     <a href="https://www.linkedin.com/in/vivek-sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sati" height="30" width="40" /></a> </li>
 	    <br />
 	</ul>
 </details>
