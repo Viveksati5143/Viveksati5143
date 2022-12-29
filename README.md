@@ -49,7 +49,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/viveksa61008833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viveksa61008833" height="30" width="40" /></a>
+<a href="https://twitter.com/Vivek__twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek__twts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek-sati-71465320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sati-71465320a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viveksati2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksati2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user_1lkw9mgrdp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_1lkw9mgrdp9" height="30" width="40" /></a>
