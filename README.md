@@ -108,13 +108,13 @@
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake animation](https://github.com/<Viveksati5143>/<Viveksati5143>/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
-<!-- ### Spotify Playing 🎧
+###  Currently 🎧
  
  
  
-[![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+[![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/37i9dQZF1DWSSrwtip3vZP?si=d4241244aba84c11)
 
--->
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksati5143&show_icons=true&locale=en&layout=compact" alt="viveksati5143" /></p>
 
