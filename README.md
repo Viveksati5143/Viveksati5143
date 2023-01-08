@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Oasis Infobyte**
+- 🔭 I’m currently working in **Oasis Infobyte**
 - 🌱 I’m currently learning **React and DSA.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
 - 💬 Ask me about **Java, HTML and CSS.**- 
