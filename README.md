@@ -110,7 +110,7 @@
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
 
 
-##  🎧 Currently 🎧 
+# 🎧 Currently 🎧 
 <!-- [![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/37i9dQZF1DWSSrwtip3vZP?si=d4241244aba84c11) -->
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWSSrwtip3vZP?si=d4241244aba84c11)<br/>
