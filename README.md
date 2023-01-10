@@ -83,7 +83,7 @@
 </p> -->
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Viveksati5143&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<!--<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Viveksati5143&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a> -->
 <a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Viveksati5143&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p>
 
@@ -144,9 +144,9 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/Viveksati5143">
+<!--   <a href="https://github.com/Viveksati5143">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Viveksati5143&show_icons=true&theme=radical&count_private=true">
-  </a>
+  </a> -->
   <a href="https://github.com/Viveksati5143/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Viveksati5143&layout=compact&theme=radical&langs_count=6" />
   </a>
