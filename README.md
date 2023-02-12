@@ -112,9 +112,9 @@
 
 
 ## Watch a snake 🐍 eating my contribution graph
-![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)
-![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif)
-
+<!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg) -->
+<!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.gif)
 
 
 
@@ -123,7 +123,6 @@
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake animation](https://github.com/<Viveksati5143>/<Viveksati5143>/blob/output/github-contribution-grid-snake2.svg) -->
-<!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
 
 <br />
 
