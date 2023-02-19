@@ -51,7 +51,9 @@
 
 ## 👩‍💻 IDE 
 
-![Top Graph](https://img.shields.io/badge/Eclipse_IDE_for_Java_Developers-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Top Graph](https://img.shields.io/badge/Eclipse_IDE_for_Java_Developers-800080?style=for-the-badge&logo=android-studio&logoColor=white)
+![Top Graph](https://img.shields.io/badge/IntelliJ_IDEA-0000FF?style=for-the-badge&logo=android-studio&logoColor=blue)
+
 ![Top Graph](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white)
