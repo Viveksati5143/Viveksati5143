@@ -21,11 +21,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working in **Oasis Infobyte**
+- 🔭 I’m currently working in **my Problem Solving Skills**
 - 🌱 I’m currently learning **React and DSA.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
 - 💬 Ask me about **Java, HTML and CSS.**- 
-- 📫 How to reach me **viveksati2002@gmail.com**
+- 📫 How to reach me **viveksati001@gmail.com**
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 <!-- ![image](https://user-images.githubusercontent.com/100852245/204049271-864b8488-df83-4ebf-924a-b0e13265c19a.png) -->
 
