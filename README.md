@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working in **my Problem Solving Skills**
-- 🌱 I’m currently learning **React and DSA.**
+- 🌱 I’m currently learning **React, Devops and DSA.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
 - 💬 Ask me about **Java, Machine Learning, MySQL, HTML and CSS.**
 - 📫 How to reach me **viveksati001@gmail.com**
