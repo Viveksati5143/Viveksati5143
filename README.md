@@ -24,7 +24,7 @@
 - 🔭 I’m currently working in **my Problem Solving Skills**
 - 🌱 I’m currently learning **React, Devops and DSA.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
-- 💬 Ask me about **Java, Machine Learning, MySQL, HTML and CSS.**
+- 💬 Ask me about **Java, Machine Learning, MySQL, HTML, CSS, Javascript.**
 - 📫 How to reach me **viveksati001@gmail.com**
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 <!-- ![image](https://user-images.githubusercontent.com/100852245/204049271-864b8488-df83-4ebf-924a-b0e13265c19a.png) -->
