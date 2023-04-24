@@ -87,7 +87,9 @@
 	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/> </a>
+		<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
@@ -97,7 +99,7 @@
 	<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
 	<a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank" rel="noreferrer"> 
-<img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="Lex" width="40" height="40"/> </a> 
+<img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="lex" width="40" height="40"/> </a> 
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
