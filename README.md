@@ -88,12 +88,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/> </a>
-		<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+	<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+<img src="https://th.bing.com/th/id/OIP.bllPNf44i40BTiSTvMxT8wHaHa?pid=ImgDet&rs=1" alt="maven" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 	<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
