@@ -94,8 +94,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+	<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
 	<a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="Lex" width="40" height="40"/> </a> 
+	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
