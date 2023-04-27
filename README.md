@@ -90,16 +90,22 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/> </a>
 	<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
+<!-- 	<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="spring" width="40" height="40"/> </a> -->
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th/id/OIP.bllPNf44i40BTiSTvMxT8wHaHa?pid=ImgDet&rs=1" alt="maven" width="40" height="40"/> </a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+	<a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> 
+<img src="https://th.bing.com/th/id/OIP.4U_jQ9WUKLuo0D2Jwi9gfwHaC1?pid=ImgDet&w=164&h=54.666666666666664&c=7&dpr=1.5" alt="puppet" width="40" height="40"/> </a>
 	<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+	<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
 	<a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="lex" width="40" height="40"/> </a> 
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
