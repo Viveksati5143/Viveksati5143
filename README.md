@@ -65,12 +65,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Vivek__twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek__twts" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vivek-sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/viveksati2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksati2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_1lkw9mgrdp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_1lkw9mgrdp9" height="30" width="40" /></a>
-<a href="https://app.slack.com/client/T03Q4H8PCRW/D04RD8NRS4C/rimeto_profile/U04RAQBBW2E" target="blank"><img align="center" src="https://cdn2.hubspot.net/hubfs/521324/slack-logo.png" alt="U04RAQBBW2E" height="30" width="30" /></a>
+	<a href="https://twitter.com/Vivek__twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek__twts" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/vivek-sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-sati" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/viveksati2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksati2002" height="30" width="40" /></a>
+	<a href="https://auth.geeksforgeeks.org/user/user_1lkw9mgrdp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_1lkw9mgrdp9" height="30" width="40" /></a>
+	<a href="https://app.slack.com/client/T03Q4H8PCRW/D04RD8NRS4C/rimeto_profile/U04RAQBBW2E" target="blank"><img align="center" src="https://cdn2.hubspot.net/hubfs/521324/slack-logo.png" alt="U04RAQBBW2E" height="30" width="30" /></a>
+	<a href="https://matrix.to/#/@viveksati5143:gitter.im" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="U04RAQBBW2E" height="30" width="30" /></a>
 
+	
+	
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
