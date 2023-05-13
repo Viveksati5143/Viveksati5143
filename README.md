@@ -103,10 +103,10 @@
 <img src="https://th.bing.com/th/id/OIP.bllPNf44i40BTiSTvMxT8wHaHa?pid=ImgDet&rs=1" alt="maven" width="40" height="40"/> </a>
 	<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/> </a>
-	<a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> 
-<img src="https://th.bing.com/th/id/OIP.4U_jQ9WUKLuo0D2Jwi9gfwHaC1?pid=ImgDet&w=164&h=54.666666666666664&c=7&dpr=1.5" alt="puppet" width="40" height="40"/> </a>
 	<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
+	<a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> 
+<img src="https://th.bing.com/th/id/OIP.4U_jQ9WUKLuo0D2Jwi9gfwHaC1?pid=ImgDet&w=164&h=54.666666666666664&c=7&dpr=1.5" alt="puppet" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 	<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
