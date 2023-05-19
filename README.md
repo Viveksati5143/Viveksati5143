@@ -113,6 +113,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
 	<a href="https://www.nagios.org/" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th?id=OIP.1AwhSuQkrTdA5oSDNl7fPQHaCR&w=350&h=107&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="nagios" width="40" height="40"/> </a>
+	<a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 	<a href="https://en.wikipedia.org/wiki/Lex_(software)" target="_blank" rel="noreferrer"> 
 <img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="lex" width="40" height="40"/> </a> 
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
