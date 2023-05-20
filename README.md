@@ -97,6 +97,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="spring" width="40" height="40"/> </a> -->
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
@@ -119,8 +121,6 @@
 <img src="https://th.bing.com/th?id=OSK.ad0ecb359ba825ee4ee36a258cd082a9&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="lex" width="40" height="40"/> </a> 
 	<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
-	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
