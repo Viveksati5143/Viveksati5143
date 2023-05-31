@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Cloud Technologies**
-- 🌱 I’m currently learning **React, Devops and DSA.**
+- 🌱 I’m currently learning **AWS, Devops and DSA.**
 - 👯 I’m looking to collaborate on **DevOps, Java and Web Projects.**
 - 💬 Ask me about **DevOps, Java, Machine Learning, MySQL, HTML, CSS, Javascript.**
 - 📫 How to reach me **viveksati001@gmail.com**
