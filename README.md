@@ -136,9 +136,7 @@
     </a>
 </p> -->
 
-<p>
-	[![vivekquine's GitHub | Stats](https://stats.quine.sh/vivekquine/github?theme=dark)](https://quine.sh)
-
+<p align="center">
 <!--<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Viveksati5143&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a> -->
 <a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Viveksati5143&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p>
@@ -148,7 +146,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viveksati5143&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p> -->
 
-
+[![vivekquine's GitHub | Stats](https://stats.quine.sh/vivekquine/github?theme=dark)](https://quine.sh)
+[![vivekquine's GitHub | Topics Over Time](https://stats.quine.sh/vivekquine/topics-over-time?theme=dark)](https://quine.sh)
 [![vivekquine's GitHub | Languages Over Time](https://stats.quine.sh/vivekquine/languages-over-time?theme=dark)](https://quine.sh)
 
 ## Watch a snake 🐍 eating my contribution graph
