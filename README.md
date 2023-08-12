@@ -21,19 +21,19 @@
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 <!-- ![image](https://user-images.githubusercontent.com/100852245/204049271-864b8488-df83-4ebf-924a-b0e13265c19a.png) -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-nn
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksati5143&label=Profile%20views&color=0e75b6&style=flat" alt="viveksati5143" /> </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Viveksati5143&label=Visitors&color=0088cc&style=flat-square" alt="Viveksati5143" /> </p> -->
 
 ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FViveksati51431212%2Fhit-counter)
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksati5143&theme=radical&hide_border=true"/></p> -->
 
-
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksati5143" alt="viveksati5143" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/viveksa61008833" target="blank"><img src="https://img.shields.io/twitter/follow/viveksa61008833?logo=twitter&style=for-the-badge" alt="viveksa61008833" /></a> </p> -->
 
 ## 👩‍💻 IDE 
+<!-- Quine -->
+<a href="https://quine.sh"><img align = "right" src="https://stats.quine.sh/vivekquine/github?theme=dark"/></a>
 
 ![Top Graph](https://img.shields.io/badge/Eclipse_IDE_for_Java_Developers-800080?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/IntelliJ_IDEA-0000FF?style=for-the-badge&logo=android-studio&logoColor=blue)
@@ -42,10 +42,13 @@ nn
 ![Top Graph](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Jupyter_Notebook-FFA500?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=white)
 
+<!--
 <a href="https://github.com/Viveksati5143/github-readme-stats">
-<!-- ![Vivek's Language stats] -->
+![Vivek's Language stats]
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Viveksati5143&theme=gotham&layout=compact&langs_count=8&hide_border=true" />
 </a>
+-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -129,8 +132,8 @@ nn
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viveksati5143&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p> -->
 
-[![vivekquine's GitHub | Stats](https://stats.quine.sh/vivekquine/github?theme=dark)](https://quine.sh)
 <!--
+[![vivekquine's GitHub | Stats](https://stats.quine.sh/vivekquine/github?theme=dark)](https://quine.sh)
 [![vivekquine's GitHub | Topics Over Time](https://stats.quine.sh/vivekquine/topics-over-time?theme=dark)](https://quine.sh)
 [![vivekquine's GitHub | Languages Over Time](https://stats.quine.sh/vivekquine/languages-over-time?theme=dark)](https://quine.sh)
 -->
