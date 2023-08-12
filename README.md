@@ -149,8 +149,10 @@
 </p> -->
 
 [![vivekquine's GitHub | Stats](https://stats.quine.sh/vivekquine/github?theme=dark)](https://quine.sh)
+<!--
 [![vivekquine's GitHub | Topics Over Time](https://stats.quine.sh/vivekquine/topics-over-time?theme=dark)](https://quine.sh)
 [![vivekquine's GitHub | Languages Over Time](https://stats.quine.sh/vivekquine/languages-over-time?theme=dark)](https://quine.sh)
+-->
 
 ## Watch a snake 🐍 eating my contribution graph
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg) -->
