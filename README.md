@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Contributing to open source**
+- 🔭 I’m currently working on **Contributing to open source mostly CNCF Projects**
 - 🌱 I’m currently learning **AWS, Devops**
 - 👯 I’m looking to collaborate on **DevOps, Cloud and Web Projects.**
 - 💬 Ask me about **DevOps, AWS, Java, Machine Learning, MySQL, HTML, CSS, Javascript.**
