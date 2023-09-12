@@ -9,7 +9,7 @@
 
 <h3 align="center">Hey I am Vivek Sati. I have a keen interest in DevOps and huge fascination with the inner working of technology.</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<!-- <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"> -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
