@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Contributing to open source mostly CNCF Projects**
 - 🌱 I’m currently learning **AWS, Devops, GO**
 - 👯 I’m looking to collaborate on **DevOps, Cloud and Web Projects.**
-- 💬 Ask me about **DevOps, AWS, Java, Machine Learning, MySQL, HTML, CSS, Javascript.**
+- 💬 Ask me about **DevOps, AWS, Java, Machine Learning, MySQL, HTML, CSS, JavaScript.**
 - 📫 How to reach me **viveksati001@gmail.com**
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 <!-- ![image](https://user-images.githubusercontent.com/100852245/204049271-864b8488-df83-4ebf-924a-b0e13265c19a.png) -->
