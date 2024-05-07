@@ -139,10 +139,17 @@
 -->
 
 ## Watch a snake 🐍 eating my contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viveksati5143/Viveksati5143/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viveksati5143/Viveksati5143/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Viveksati5143/Viveksati5143/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.gif) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.gif) --> 
- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.svg) 
+<!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![snake gif](https://github.com/Viveksati5143/Viveksati5143/blob/output/github-contribution-grid-snake2.svg)  	 -->
 <!-- ![snake animation](https://github.com/<Viveksati5143>/<Viveksati5143>/blob/output/github-contribution-grid-snake2.svg) -->
 <br />
